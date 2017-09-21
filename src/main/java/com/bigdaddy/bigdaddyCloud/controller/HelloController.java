@@ -29,8 +29,6 @@ public class HelloController implements SayHelloService {
 
 	@Override
 	public String sayHello() {
-	
-		
 		return "lao zi yao dang bin";
 	}
 
