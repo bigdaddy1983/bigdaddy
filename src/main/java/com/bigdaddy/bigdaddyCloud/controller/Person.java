@@ -13,7 +13,7 @@ public class Person {
 
 	public Integer getAge() {
 		age++;
-		
+		age++;
 		return age;
 	}
 
