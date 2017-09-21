@@ -4,7 +4,9 @@ import java.io.Serializable;
 
 public class Person{
 
-	
+	/**
+	 * 年龄
+	 */
 	private Integer age;
 	private String name;
 	public Integer getAge() {
